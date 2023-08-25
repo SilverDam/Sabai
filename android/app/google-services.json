@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465937542794",
+    "project_id": "sabai-bc67f",
+    "storage_bucket": "sabai-bc67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465937542794:android:4ad24306e624e13037c773",
+        "android_client_info": {
+          "package_name": "com.example.sabai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrdBPLekGt3qjxyWScNltkISbiad1LQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
